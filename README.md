@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARSHAN_R%20S&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARSHAN%20R&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20ServiceNow%20CSA&descAlignY=55"/>
   
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;Flask+Backend+Developer;ServiceNow+CSA+Certified;Hackathon+Winner;Open+to+Software+Engineering+Roles"/>
 
@@ -33,24 +33,24 @@
 * System Design
 * Cloud Computing
 
-📫 Email: **[jeevasiva2k6@gmail.com](mailto:jeevasiva2k6@gmail.com)**
+📫 Email: **[rharshan2005@gmail.com](mailto:rharshan2005@gmail.com)**
 
-🔗 GitHub: https://github.com/jeevasivaa
+🔗 GitHub: https://github.com/R-Harshan2709
 
-🔗 LinkedIn: https://linkedin.com/in/jeevasivaa
+🔗 LinkedIn: https://www.linkedin.com/in/harshanr2005/
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/jeevasivaa">
+<a href="https://github.com/R-Harshan2709">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/jeevasivaa">
+<a href=www.linkedin.com/in/harshanr2005">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:jeevasiva2k6@gmail.com">
+<a href="mailto:rharshan2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -80,7 +80,7 @@
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,POSTMAN,MONGODB,MySQL" />
 </p>
 
 ---
@@ -96,11 +96,11 @@
 </a>
 
 <a href="https://www.credly.com/badges/251c1d5a-1003-4727-b0d0-60a7dfe11020/public_url">
-  <img src="./assets/micro-certification-welcome-to-servicenow.png" width="150" alt="ServiceNow Micro Certification"/>
+  <img src="./assets/micro-certification-welcome-to-servicenow.png" width="150" alt="ServiceNow Certified System Administrator"/>
 </a>
 
 <a href="https://www.credly.com/badges/02431bc7-d515-4ea7-812a-1564b1b869ad/public_url">
-  <img src="./assets/journey-to-cloud-envisioning-your-solution.2.png" width="150" alt="IBM Journey to Cloud"/>
+  <img src="./assets/journey-to-cloud-envisioning-your-solution.2.png" width="150" alt="ServiceNow Certified Administrative Developer"/>
 </a>
 
 <a href="https://www.credly.com/badges/66f04b90-be3b-4e79-8363-0e50ee29aedb/public_url">
@@ -172,11 +172,11 @@
 
 Real-time theft detection and alert monitoring system.
 
-### 📦 Retail Chain Inventory Tracker
+### 🚗 Car Rental System
 
 Flask + SQLite inventory management platform.
 
-### 🏆 Sports Tournament Management System
+### 🎯 Interactive Quiz Platform
 
 Tournament scheduling and management platform.
 
